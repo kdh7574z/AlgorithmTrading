@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a058cba-61f1-4e8c-a57d-681a303a31a5" name="Default" comment="" />
+    <list default="true" id="9a058cba-61f1-4e8c-a57d-681a303a31a5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Kiwoom.iml" afterPath="$PROJECT_DIR$/.idea/Kiwoom.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,62 +15,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kiwoom$Week7_12__.coverage" NAME="Week7-12 주가데이터 저장하기 Coverage Results" MODIFIED="1505483560364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../파이썬기본공부" />
-    <SUITE FILE_PATH="coverage/Kiwoom$Save_Data.coverage" NAME="Save_Data Coverage Results" MODIFIED="1505979382580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kiwoom$webreader.coverage" NAME="webreader Coverage Results" MODIFIED="1505891483156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kiwoom$Save_Data.coverage" NAME="Save_Data Coverage Results" MODIFIED="1505979382580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kiwoom$pymon.coverage" NAME="pymon Coverage Results" MODIFIED="1505892568415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kiwoom$Kiwoom.coverage" NAME="Kiwoom Coverage Results" MODIFIED="1505894099640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kiwoom$Save_Data_list.coverage" NAME="Save_Data_list Coverage Results" MODIFIED="1505811582106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kiwoom$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1505486864364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Kiwoom$Reform_data.coverage" NAME="Reform_data Coverage Results" MODIFIED="1506060261959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Kiwoom$Kiwoom.coverage" NAME="Kiwoom Coverage Results" MODIFIED="1505894099640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Kiwoom$pytrader.coverage" NAME="pytrader Coverage Results" MODIFIED="1505521612702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kiwoom$Save_Data_internet.coverage" NAME="Save_Data_internet Coverage Results" MODIFIED="1506320757776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Kiwoom$Back_Test.coverage" NAME="Back_Test Coverage Results" MODIFIED="1505527804138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Kiwoom$Save_Data_list.coverage" NAME="Save_Data_list Coverage Results" MODIFIED="1505811582106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kiwoom$Week7_12__.coverage" NAME="Week7-12 주가데이터 저장하기 Coverage Results" MODIFIED="1505483560364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../파이썬기본공부" />
+    <SUITE FILE_PATH="coverage/Kiwoom$pytrader.coverage" NAME="pytrader Coverage Results" MODIFIED="1505521612702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Weather_Find.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Weather/Weather_Find.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1509517181000" expanded="true" signature="1561:1584" ph="SELECT * FRO... " />
-                <marker date="1509517181000" expanded="true" signature="2063:2086" ph="SELECT * FRO... " />
-                <marker date="1509517181000" expanded="true" signature="2456:2479" ph="SELECT * FRO... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Project.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Fund4/Project.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11960">
-              <caret line="527" column="44" lean-forward="false" selection-start-line="527" selection-start-column="44" selection-end-line="527" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Week7-12 주가데이터 저장하기.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4761">
-              <caret line="215" column="69" lean-forward="false" selection-start-line="214" selection-start-column="66" selection-end-line="215" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Save_Data.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Save_Data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Save_Data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="-1258">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -76,8 +44,8 @@
       <file leaf-file-name="pytrader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pytrader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2418">
+              <caret line="97" column="62" lean-forward="true" selection-start-line="97" selection-start-column="62" selection-end-line="97" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -86,10 +54,11 @@
       <file leaf-file-name="Reform_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Reform_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="614">
               <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <marker date="1506060261000" expanded="true" signature="761:782" ph="SELECT * FRO... " />
               </folding>
             </state>
           </provider>
@@ -98,10 +67,16 @@
       <file leaf-file-name="Back_Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Back_Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="-3770">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+                <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+                <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+                <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+                <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+                <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
               </folding>
             </state>
           </provider>
@@ -110,9 +85,11 @@
       <file leaf-file-name="webreader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webreader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="121">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +97,7 @@
       <file leaf-file-name="Save_Data_internet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Save_Data_internet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="314">
               <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -146,6 +123,9 @@
       <find>if</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -160,10 +140,10 @@
         <option value="$PROJECT_DIR$/Back_Test.py" />
         <option value="$PROJECT_DIR$/Reform_data.py" />
         <option value="$PROJECT_DIR$/Save_Data_internet.py" />
-        <option value="$PROJECT_DIR$/../Fund4/Project.py" />
-        <option value="$PROJECT_DIR$/../Weather/Weather_Data_setting.py" />
+        <option value="$USER_HOME$/Fund4/Project.py" />
+        <option value="$USER_HOME$/Weather/Weather_Data_setting.py" />
         <option value="$USER_HOME$/Desktop/Weather_Data_setting.py" />
-        <option value="$PROJECT_DIR$/../Weather/Weather_Find.py" />
+        <option value="$USER_HOME$/Weather/Weather_Find.py" />
       </list>
     </option>
   </component>
@@ -179,6 +159,7 @@
     <option name="width" value="1734" />
     <option name="height" value="916" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages />
@@ -350,13 +331,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3514151" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41256157" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3514151" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -396,11 +377,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Back_Test.py</url>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
@@ -412,6 +388,12 @@
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
           </folding>
         </state>
       </provider>
@@ -438,14 +420,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kiw.py" />
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4484">
-          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py" />
     <entry file="file://$PROJECT_DIR$/Save_Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
@@ -459,17 +434,17 @@
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py" />
     <entry file="file://$PROJECT_DIR$/pytrader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2223">
@@ -485,14 +460,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kiw.py" />
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4840">
-          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py" />
     <entry file="file://$PROJECT_DIR$/Save_Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2220">
@@ -506,17 +474,17 @@
           <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py" />
     <entry file="file://$PROJECT_DIR$/pytrader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2340">
@@ -532,14 +500,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kiw.py" />
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4598">
-          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py" />
     <entry file="file://$PROJECT_DIR$/Save_Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
@@ -553,17 +514,17 @@
           <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py" />
     <entry file="file://$PROJECT_DIR$/pytrader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1919">
@@ -579,14 +540,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kiw.py" />
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4598">
-          <caret line="250" column="0" lean-forward="true" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py" />
     <entry file="file://$PROJECT_DIR$/Save_Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
@@ -594,13 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py" />
     <entry file="file://$PROJECT_DIR$/pytrader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -614,32 +562,20 @@
           <caret line="263" column="0" lean-forward="true" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kiw.py" />
-    <entry file="file://$PROJECT_DIR$/../../데이터분석하기/Project_RNN_Class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1937">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../데이터분석하기/Project_RNN_Class_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="84" column="49" lean-forward="false" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../데이터분석하기/Project_RNN_Class.py" />
+    <entry file="file://$PROJECT_DIR$/../../데이터분석하기/Project_RNN_Class_2.py" />
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week5-8 Zipline.py" />
     <entry file="file://$PROJECT_DIR$/Save_Data_list.py" />
     <entry file="file://$PROJECT_DIR$/pymon.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -649,13 +585,7 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/data_to_db.py" />
-    <entry file="file://$PROJECT_DIR$/../Weather/Weather_Data_setting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Weather/Weather_Data_setting.py" />
     <entry file="file://$PROJECT_DIR$/Kiwoom.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
@@ -663,25 +593,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytrader.py">
+    <entry file="file://$USER_HOME$/Fund4/Project.py" />
+    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py" />
+    <entry file="file://$USER_HOME$/Desktop/Weather_Data_setting.py" />
+    <entry file="file://$USER_HOME$/Weather/Weather_Find.py" />
+    <entry file="file://$USER_HOME$/Desktop/Weather_Parameter.py" />
+    <entry file="file://$PROJECT_DIR$/Back_Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-3770">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1505986671000" expanded="true" signature="310:389" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="554:635" ph="SELECT date,... " />
+            <marker date="1505986671000" expanded="true" signature="740:811" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="899:970" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1058:1129" ph="SELECT ma5, " />
+            <marker date="1505986671000" expanded="true" signature="1217:1288" ph="SELECT ma5, " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webreader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="121">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Save_Data_internet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="314">
           <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -689,68 +634,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Fund4/Project.py">
+    <entry file="file://$PROJECT_DIR$/pytrader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11960">
-          <caret line="527" column="44" lean-forward="false" selection-start-line="527" selection-start-column="44" selection-end-line="527" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2418">
+          <caret line="97" column="62" lean-forward="true" selection-start-line="97" selection-start-column="62" selection-end-line="97" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../파이썬기본공부/Week7-12 주가데이터 저장하기.py">
+    <entry file="file://$PROJECT_DIR$/Reform_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4761">
-          <caret line="215" column="69" lean-forward="false" selection-start-line="214" selection-start-column="66" selection-end-line="215" selection-end-column="69" />
-          <folding />
+        <state relative-caret-position="614">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1506060261000" expanded="true" signature="761:782" ph="SELECT * FRO... " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Save_Data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="-1258">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reform_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Back_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Weather_Data_setting.py" />
-    <entry file="file://$PROJECT_DIR$/../Weather/Weather_Find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1509517181000" expanded="true" signature="1561:1584" ph="SELECT * FRO... " />
-            <marker date="1509517181000" expanded="true" signature="2063:2086" ph="SELECT * FRO... " />
-            <marker date="1509517181000" expanded="true" signature="2456:2479" ph="SELECT * FRO... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Weather_Parameter.py" />
   </component>
 </project>
